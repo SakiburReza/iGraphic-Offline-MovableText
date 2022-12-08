@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1528747152 source:c:\users\lenovo\documents\text\main.cpp
+	"iGraphics.h"
+
+1493810122 c:\users\lenovo\documents\text\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1528747152 source:e:\cse\offline\text\main.cpp
+	"iGraphics.h"
+
+1493810122 e:\cse\offline\text\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1528747152 source:e:\cse\1-1\offline\text\main.cpp
+	"iGraphics.h"
+
+1493810122 e:\cse\1-1\offline\text\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1528747152 source:f:\cse\1-1\offline\text\main.cpp
+	"iGraphics.h"
+
+1493810122 f:\cse\1-1\offline\text\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
